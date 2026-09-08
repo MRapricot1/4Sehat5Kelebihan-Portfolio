@@ -1,6 +1,6 @@
 # 4Sehat5Kelebihan
 
-A Django-based web application developed as a team project.
+A Django-based web application developed as a collaborative academic project.
 
 ## Tech Stack
 
@@ -26,3 +26,7 @@ A Django-based web application developed as a team project.
 - Developed interactive UI functionality using JavaScript.
 - Implemented user authentication and conditional UI using Django templates.
 - Collaborated with team members using Git/GitHub.
+
+## Project Preview
+
+!▶️ [Watch the 4Sehat5Kelebihan Demo](https://youtu.be/FrWol6P7rKA)
